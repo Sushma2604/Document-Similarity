@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-
-author: adithya ganapathy (axg172330)
 Title: Cosine similarity of two documents
 """
 #import all necessary libraries
